@@ -1,0 +1,17 @@
+    /* .logo-google {
+        margin-left: 5px;
+    } */
+    span a {
+        position: relative;
+        bottom: 10px;
+        left: 5px;
+    }
+
+    .img-style {
+        height: 35px;
+    }
+
+    .text-emaily {
+        margin-top: 10px;
+        font-size: 15px;
+    }
